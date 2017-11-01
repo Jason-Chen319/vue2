@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>10S</title>
+    <script src="../../vue.js"></script>
+</head>
+<body>
+<!-- 模板 -->
+<div id="demo" ref="be">
+    <span @click="clickHandle" ref='niu'>{{message}}</span>
+</div>
+<script>
+    //数据
+    let obj = {
+        message: 'hello,Vue'
+    }
+    //声明式渲染
+    let vm = new Vue({
+        el: '#demo',
+        data: obj,
+        methods: {
+            clickHandle () {
+                alert('click')
+            }
+        }
+    })
+    console.log(vm.$data)
+    console.log(vm.$refs.be)
+</script>
+</body>
+</html>
