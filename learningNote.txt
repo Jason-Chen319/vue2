@@ -1,3 +1,23 @@
+虚拟DOM示意图
+    模板                                渲染函数                     虚拟DOM树                      真实DOM
+                       compile                       render                          create
+<ui id='my-id'>          =>       createElement{       =>           VNode               =>         <ul>
+  <li                               'ul',  //节点标签名                child: undefined               <li>1</li>
+    v-for='item in list'>           //标签上的属性，用对象存储件键值对   children: Array[3]             <li>2</li>
+        {{item}}                    {                                   0: VNode                     <li>3</li>
+  </li>                               attr: {                           1: VNode                   </ul>
+                                        id: 'my-id'                     2: VNode
+                                      }                                   length:3
+                                    },                                    _proto_:Array[3]
+                                    //该节点的子节点                       componentOptions:underfined
+                                    {                                     elm:el
+                                      createElement('li',1)
+                                      createElement('li',2)
+                                      createElement('li',3)
+                                    }
+                                  }
+
+
 1.渐进式框架Vue
 2.vue中两个核心点
 3.虚拟DOM
