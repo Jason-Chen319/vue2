@@ -28,7 +28,7 @@
         el: '#demo',
         data: obj,
         render (createElement) {
-           return createElement(
+           var obj = createElement(
                'ul',
                {
                    class: {
@@ -39,18 +39,19 @@
                    },
                    attrs: {
                        abc: 'miaov'
-                   },
-                   domProps: {
-                       innerHTML: '<li>我是新的li</li>'
                    }
+//                   domProps: {
+//                       innerHTML: '<li>我是新的li</li>'
+//                   }
                },
                [
                    createElement('li',1),
                    createElement('li',2),
                    createElement('li',3)
                ]
-
            )
+            console.log(obj)
+            return obj
         }
     })
     console.log(vm.$data)
