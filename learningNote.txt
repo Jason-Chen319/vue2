@@ -82,3 +82,53 @@ vue实例
         是一种特殊的自定义行间属性
         指令的职责就是当其表达式的值改变时相应地将某些行为应用到DOM上
         在vue中，指令以v-开头
+
+内置指令
+    vue中的内置指令
+        v-bind 动态的绑定数据。简写为 ：    v-on 绑定事件监听器，简写为@
+        v-text 更新数据，会覆盖已有结构     v-html 可以解析数据中的html
+        v-show 根据值得真假，切换元素的display  v-if 根据值得真假，切换元素会被销毁，重建
+        v-else-if 多条件判断，为真则渲染，  v-else 条件都不符合渲染
+        v-for 基于源数据多次渲染元素或模板块   v-model 在表单控件元素上创造双向数据绑定
+        v-pre 跳过元素和子元素的编译过程     v-once 只渲染一次，随后数据更新不重新渲染
+        v-cloak 隐藏未编译的Mustache语法，css中设置(v-cloak){display:none}
+
+html模板
+    html模板
+        基于DOM的模板，模板都是可解析的有效的HTML
+    插值
+        文本：使用"Mustache"语法 (双大括号){{value}}
+                作用：替换实例上的属性值，当值改变时，插值内容处会自动更新
+        原生的html:双大括号输出的是文本，不会解析html
+        属性：使用v-bind进行绑定，可以响应变化
+        使用javascript表达式：写简单的表达式
+
+字符串模板
+    template选项对象的属性
+    模板将会替换挂载的元素，挂载元素的内容都将被忽略
+    根节点只能有一个
+    将html结构写在一对script标签中， type='x-template'
+
+模板-render函数
+    render函数
+        render 选项对象的属性                          <div class='message'>           render () {
+                                                        Hello world             ==>>    return h {
+                                                      </div>                              'div',
+                                                                                          {class: 'message'},
+        createElement(标签名, [数据对象], 子元素)                                           ['Hello World'],
+            子元素为文本或数组                                                            }
+                                                                                      }
+
+    数据对象属性
+        class：{},           //绑定class,和v-bind:class 一样的API
+        style: {},          //绑定样式, 和v-bind:style 一样的API
+        attrs: {},          //添加行间属性
+        domProps: {},       //DOM元素属性
+        on: {}              //绑定事件
+
+        nativeOn: {},       //监听原生事件
+        directives: {},     //自定义指令
+        scopedSlots: {},    //slot作用域
+        slot: {},           //定义slot名称
+        key: 'key',         //给元素添加唯一标示
+        ref: 'ref'          //引用信息
