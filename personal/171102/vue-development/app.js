@@ -4,7 +4,7 @@ var list = [
 		isChecked:false //状态为false，为不选中  任务未完成
 	},
 	{
-		title:"妙味课堂",
+		title:"miaov",
 		isChecked:true   //状态为true，为选中    任务完成
 	}
 ];
@@ -13,16 +13,29 @@ new Vue({
 	el:".main",
 	data:{
 		list:list,
+        unfinishedList: [],
+        CompletedList: [],
 		todo:"",
 		edtorTodos:'',  //记录正在编辑的数据
-		beforeTitle:'' //记录正在编辑的数据的title
+		beforeTitle:'', //记录正在编辑的数据的title
+		status: 1
 	},
 	computed:{
 		noCheckeLength:function(){
 			return this.list.filter(function(item){
                 return !item.isChecked
             }).length
-		}
+		},
+		getUnfinishedList: function () {
+			return this.list.filter(function(item){
+                return !item.isChecked
+			})
+		},
+        getCompletedList: function () {
+            return this.list.filter(function(item){
+                return item.isChecked
+            })
+        }
 	},
 	methods:{
 		addTodo(){  //添加任务
@@ -34,6 +47,7 @@ new Vue({
 		},
 		deleteTodo(todo){ //删除任务
 			var index = this.list.indexOf(todo);
+			console.log(index)
 			this.list.splice(index,1);
 		},
 		edtorTodo(todo){  //编辑任务
@@ -56,6 +70,9 @@ new Vue({
 
 			//让div显示出来，input隐藏
 			this.edtorTodos = '';
+		},
+		changeStatus (status) {
+			this.status = status
 		}
 	},
 	directives:{
