@@ -2,11 +2,94 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b6be74b-f730-4bdf-b991-1793def0fb04" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/personal/171102/vue-development/app.js" afterPath="$PROJECT_DIR$/personal/171102/vue-development/app.js" />
-      <change beforePath="$PROJECT_DIR$/personal/171102/vue-development/index.css" afterPath="$PROJECT_DIR$/personal/171102/vue-development/index.css" />
-      <change beforePath="$PROJECT_DIR$/personal/171102/vue-development/todos.html" afterPath="$PROJECT_DIR$/personal/171102/vue-development/todos.html" />
-      <change beforePath="$PROJECT_DIR$/teacher/vue-development/todos.html" afterPath="$PROJECT_DIR$/teacher/vue-development/todos.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/miaov/personal/171102/vue-development/app.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/miaov/personal/171102/vue-development/todos.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/miaov/vue.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/learningNote.txt" afterPath="$PROJECT_DIR$/learningNote.txt" />
+      <change beforePath="$PROJECT_DIR$/personal/171031/10s入门vue.html" afterPath="$PROJECT_DIR$/miaov/personal/171031/10s入门vue.html" />
+      <change beforePath="$PROJECT_DIR$/personal/171031/class.html" afterPath="$PROJECT_DIR$/miaov/personal/171031/class.html" />
+      <change beforePath="$PROJECT_DIR$/personal/171031/html模板.html" afterPath="$PROJECT_DIR$/miaov/personal/171031/html模板.html" />
+      <change beforePath="$PROJECT_DIR$/personal/171031/render.html" afterPath="$PROJECT_DIR$/miaov/personal/171031/render.html" />
+      <change beforePath="$PROJECT_DIR$/personal/171031/render2.html" afterPath="$PROJECT_DIR$/miaov/personal/171031/render2.html" />
+      <change beforePath="$PROJECT_DIR$/personal/171031/template.html" afterPath="$PROJECT_DIR$/miaov/personal/171031/template.html" />
+      <change beforePath="$PROJECT_DIR$/personal/171031/template2.html" afterPath="$PROJECT_DIR$/miaov/personal/171031/template2.html" />
+      <change beforePath="$PROJECT_DIR$/personal/171031/vue实例.html" afterPath="$PROJECT_DIR$/miaov/personal/171031/vue实例.html" />
+      <change beforePath="$PROJECT_DIR$/personal/171031/双向数据绑定.html" afterPath="$PROJECT_DIR$/miaov/personal/171031/双向数据绑定.html" />
+      <change beforePath="$PROJECT_DIR$/personal/171031/声明式渲染.html" afterPath="$PROJECT_DIR$/miaov/personal/171031/声明式渲染.html" />
+      <change beforePath="$PROJECT_DIR$/personal/171031/指令.html" afterPath="$PROJECT_DIR$/miaov/personal/171031/指令.html" />
+      <change beforePath="$PROJECT_DIR$/personal/171031/虚拟DOM示意图.png" afterPath="$PROJECT_DIR$/miaov/personal/171031/虚拟DOM示意图.png" />
+      <change beforePath="$PROJECT_DIR$/personal/171031/过程.png" afterPath="$PROJECT_DIR$/miaov/personal/171031/过程.png" />
+      <change beforePath="$PROJECT_DIR$/personal/171102/vue-development/app.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/personal/171102/vue-development/app1.js" afterPath="$PROJECT_DIR$/miaov/personal/171102/vue-development/app1.js" />
+      <change beforePath="$PROJECT_DIR$/personal/171102/vue-development/index.css" afterPath="$PROJECT_DIR$/miaov/personal/171102/vue-development/index.css" />
+      <change beforePath="$PROJECT_DIR$/personal/171102/vue-development/todos.html" afterPath="$PROJECT_DIR$/miaov/personal/171102/vue-development/todos.html" />
+      <change beforePath="$PROJECT_DIR$/personal/171102/vue-development/vue.js" afterPath="$PROJECT_DIR$/miaov/personal/171102/vue-development/vue.js" />
+      <change beforePath="$PROJECT_DIR$/readMe.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/vue-development/app.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/vue-development/app1.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/vue-development/app1.js" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》201702017课件/vue-development/app1.js" />
+      <change beforePath="$PROJECT_DIR$/teacher/vue-development/index.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/vue-development/todos.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/vue-development/vue.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/10秒入门Vue.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/10秒入门Vue.html" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》20170107课件/10秒入门Vue.html" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/class.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/class.html" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》20170107课件/class.html" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/html模板.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/html模板.html" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》20170107课件/html模板.html" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/render.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/render.html" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》20170107课件/render.html" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/render2.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/render2.html" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》20170107课件/render2.html" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/template.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/template.html" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》20170107课件/template.html" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/template2.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/template2.html" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》20170107课件/template2.html" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/vue.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/vue.js" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》20170107课件/vue.js" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/vue实例.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/vue实例.html" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》20170107课件/vue实例.html" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/双向数据绑定.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/双向数据绑定.html" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》20170107课件/双向数据绑定.html" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/声明式渲染.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/声明式渲染.html" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》20170107课件/声明式渲染.html" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/指令.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/指令.html" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》20170107课件/指令.html" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/虚拟DOM示意图.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/虚拟DOM示意图.png" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》20170107课件/虚拟DOM示意图.png" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/过程.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》20170107课件/过程.png" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》20170107课件/过程.png" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/vue-development/app.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/vue-development/app.js" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》201702017课件/vue-development/app.js" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/vue-development/app1.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/vue-development/index.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/vue-development/index.css" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》201702017课件/vue-development/index.css" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/vue-development/todos.html" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》201702017课件/vue-development/todos.html" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/vue-development/vue.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/vue-development/vue.js" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》201702017课件/vue-development/vue.js" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/组件/1-组件.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/组件/1-组件.html" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》201702017课件/组件/1-组件.html" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/组件/2-组件.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/组件/2-组件.html" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》201702017课件/组件/2-组件.html" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/组件/3-组件.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/组件/3-组件.html" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》201702017课件/组件/3-组件.html" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/组件/images/select_bg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/组件/images/select_bg.png" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》201702017课件/组件/images/select_bg.png" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/组件/images/select_search.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/组件/images/select_search.png" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》201702017课件/组件/images/select_search.png" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/组件/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/组件/style.css" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》201702017课件/组件/style.css" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/组件/vue.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/组件/vue.js" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》201702017课件/组件/vue.js" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/组件/仿select/images/select_bg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/组件/仿select/images/select_bg.png" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》201702017课件/组件/仿select/images/select_bg.png" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/组件/仿select/images/select_search.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/组件/仿select/images/select_search.png" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》201702017课件/组件/仿select/images/select_search.png" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/组件/仿select/select.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/组件/仿select/select.html" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》201702017课件/组件/仿select/select.html" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/组件/仿select/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/teacher/《vue.js实战开发系列》201702017课件/组件/仿select/style.css" afterPath="$PROJECT_DIR$/miaov/teacher/《vue.js实战开发系列》201702017课件/组件/仿select/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,76 +99,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.50512445">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="todos.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/personal/171102/vue-development/todos.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="274">
-                  <caret line="36" column="94" lean-forward="true" selection-start-line="36" selection-start-column="94" selection-end-line="36" selection-end-column="94" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/personal/171102/vue-development/app.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-319">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="app1.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/personal/171102/vue-development/app1.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/personal/171102/vue-development/index.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-44">
-                  <caret line="190" column="20" lean-forward="false" selection-start-line="190" selection-start-column="20" selection-end-line="190" selection-end-column="20" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="todos.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/teacher/vue-development/todos.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="418">
-                  <caret line="56" column="7" lean-forward="true" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/personal/171102/vue-development/app.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="247">
-                  <caret line="30" column="8" lean-forward="false" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="vue.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/miaov/vue.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -99,6 +124,9 @@
       <find>edtorTodoed</find>
       <find>span</find>
       <find>button</find>
+      <find>view</find>
+      <find>hashchange</find>
+      <find>visibility</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -108,9 +136,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/personal/171102/vue-development/index.css" />
-        <option value="$PROJECT_DIR$/personal/171102/vue-development/app.js" />
-        <option value="$PROJECT_DIR$/personal/171102/vue-development/todos.html" />
         <option value="$PROJECT_DIR$/teacher/vue-development/todos.html" />
+        <option value="$PROJECT_DIR$/personal/171102/vue-development/todos.html" />
+        <option value="$PROJECT_DIR$/personal/171102/vue-development/app.js" />
+        <option value="$PROJECT_DIR$/learningNote.txt" />
       </list>
     </option>
   </component>
@@ -121,10 +150,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="86" />
-    <option name="y" value="7" />
-    <option name="width" value="1145" />
-    <option name="height" value="745" />
+    <option name="x" value="639" />
+    <option name="width" value="734" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -150,22 +178,6 @@
               <item name="vue2" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="vue2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue2" type="462c0819:PsiDirectoryNode" />
-              <item name="personal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue2" type="462c0819:PsiDirectoryNode" />
-              <item name="teacher" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue2" type="462c0819:PsiDirectoryNode" />
-              <item name="teacher" type="462c0819:PsiDirectoryNode" />
-              <item name="vue-development" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -176,6 +188,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\vue2\miaov" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\vue2\miaov" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -207,7 +227,9 @@
       <workItem from="1514887285944" duration="667000" />
       <workItem from="1514942545954" duration="31000" />
       <workItem from="1514950912227" duration="626000" />
-      <workItem from="1517105286228" duration="12713000" />
+      <workItem from="1517105286228" duration="13842000" />
+      <workItem from="1517189390298" duration="20326000" />
+      <workItem from="1517275454226" duration="6224000" />
     </task>
     <task id="LOCAL-00001">
       <created>1514887321015</created>
@@ -223,24 +245,30 @@
       <option name="project" value="LOCAL" />
       <updated>1514887354678</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="列表切换">
+      <created>1517127329059</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1517127329059</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14103000" />
+    <option name="totallyTimeSpent" value="41782000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1522694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21815519" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -251,25 +279,6 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1522694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -278,59 +287,137 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="列表切换" />
+    <option name="LAST_COMMIT_MESSAGE" value="列表切换" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/personal/171102/vue-development/vue.js">
+    <entry file="file://$PROJECT_DIR$/miaov/personal/171102/vue-development/todos.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/personal/171102/vue-development/app1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="493">
+          <caret line="17" column="54" lean-forward="false" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/personal/171102/vue-development/index.css">
+    <entry file="file://$PROJECT_DIR$/learningNote.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-44">
-          <caret line="190" column="20" lean-forward="false" selection-start-line="190" selection-start-column="20" selection-end-line="190" selection-end-column="20" />
+        <state relative-caret-position="6206">
+          <caret line="214" column="25" lean-forward="true" selection-start-line="214" selection-start-column="25" selection-end-line="214" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/personal/171102/vue-development/app.js">
+    <entry file="file://$PROJECT_DIR$/miaov/personal/171102/vue-development/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-319">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="406">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/personal/171102/vue-development/todos.html">
+    <entry file="file://$PROJECT_DIR$/miaov/personal/171102/vue-development/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
+        <state relative-caret-position="3915">
+          <caret line="135" column="0" lean-forward="true" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/miaov/personal/171102/vue-development/todos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1044">
           <caret line="36" column="94" lean-forward="true" selection-start-line="36" selection-start-column="94" selection-end-line="36" selection-end-column="94" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/teacher/vue-development/todos.html">
+    <entry file="file://$PROJECT_DIR$/miaov/personal/171102/vue-development/app1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="56" column="7" lean-forward="true" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/miaov/personal/171102/vue-development/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5510">
+          <caret line="190" column="20" lean-forward="false" selection-start-line="190" selection-start-column="20" selection-end-line="190" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/vue-development/todos.html" />
+    <entry file="file://$PROJECT_DIR$/miaov/personal/171102/vue-development/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/miaov/personal/171102/vue-development/vue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teacher/vue-development/todos.html" />
+    <entry file="file://$PROJECT_DIR$/miaov/personal/171102/vue-development/app1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/miaov/personal/171102/vue-development/todos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="32" column="27" lean-forward="false" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/miaov/personal/171102/vue-development/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="128" column="23" lean-forward="false" selection-start-line="128" selection-start-column="23" selection-end-line="128" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learningNote.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="253" column="11" lean-forward="false" selection-start-line="253" selection-start-column="11" selection-end-line="253" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/miaov/personal/171102/vue-development/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/miaov/vue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
           <folding />
         </state>
       </provider>

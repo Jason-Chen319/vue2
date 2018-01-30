@@ -71,7 +71,6 @@ var vm = new Vue({
 		filteredList:function(){			
 			//找到了过滤函数，就返回过滤后的数据；如果没有返回所有数据
 			return filter[this.visibility] ? filter[this.visibility](list) : list;
-
 		}
 	},
 	methods:{
