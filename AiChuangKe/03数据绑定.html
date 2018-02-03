@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>03数据绑定</title>
+</head>
+<body>
+    <div class="app" id="app">{{msg}}</div>
+    <script src="vue.js"></script>
+    <script type="text/javascript">
+
+        var data = {
+            msg: '国足3:2韩国',
+            obj: {
+                color: 'red'
+            }
+    }
+        var app = new Vue({
+        el: '#app',
+        data: data
+    })
+        // data.msg = '下周对阵伊朗'
+
+        //查看vue实例化对象app
+        console.log(app)
+        // console.log(app.$el)
+
+        //查看data中的msg属性与app中的msg属性是否相等
+        // console.log(data.msg === app.msg)//true
+        // var a = '111'
+        // var b = '111'
+        // console.log(a === b)//true
+        // var a = {}
+        // var b = {}
+        // console.log(a === b)//false
+
+        //比较app中的obj与data中的obj是否相等
+        // console.log(app.obj === data.obj)
+
+        //我们通过vue实例化对象修改msg
+        app.msg= '下周国足主场进行比赛'
+        //查看data数据中msg属性
+        console.log(data)
+    </script>
+</body>
+</html>

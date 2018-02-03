@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>09动态插值</title>
+    <style>
+        i{
+            color: red;
+        }
+    </style>
+</head>
+<body>
+<div id="app">
+    {{size}}
+</div>
+<script src="vue.js"></script>
+<script type="text/javascript">
+    var app = new Vue({
+        el: 'div',
+        data: {
+            color: 'red',
+            width: 200,
+            height: 300
+        },
+        //定义动态属性
+        computed: {
+            //size要获取width和height的乘积
+            size: function () {
+                console.log(arguments)
+                console.log(this)
+                return this.width * this.height
+            }
+        }
+    })
+</script>
+</body>
+</html>

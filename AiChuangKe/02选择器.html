@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>02选择器</title>
+</head>
+<body>
+    <div class="app" id="app">{{msg}}</div>
+    <div class="app" >{{msg}}</div>
+    <script src="vue.js"></script>
+    <script type="text/javascript">
+
+        var data = {
+        msg: '国足3:2韩国'
+    }
+        new Vue({
+        //     el: 'div',//元素名称选择器
+        // el: '#app',//id选择器
+        el: '.app',//类选择器
+        data: data
+    })
+        data.msg = '下周对阵伊朗'
+    </script>
+</body>
+</html>

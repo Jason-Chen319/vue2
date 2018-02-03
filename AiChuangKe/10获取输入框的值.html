@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>10获取输入框的值</title>
+</head>
+<body>
+<div id="app">
+    <input type="text" v-model="value" @keyup="cs">
+    <h1>{{value}}</h1>
+    <!--<input type="text">-->
+    <!--<h1></h1>-->
+</div>
+<script src="vue.js"></script>
+<!--<script src="jquery-3.3.1.js"></script>-->
+<script type="text/javascript">
+    //jquery 实现
+    // $('#app input').keyup(function () {
+    //     //获取inputvalue
+    //     console.log(arguments)
+    //     console.log(this.value)
+    //     $('#app h1').html(this.value)
+    // })
+    //vue 实现
+    new Vue({
+        el: '#app',
+        data: {
+            value: ''
+        },
+        methods: {
+            cs () {
+                console.log(this.value)
+            }
+        }
+    })
+</script>
+</body>
+</html>

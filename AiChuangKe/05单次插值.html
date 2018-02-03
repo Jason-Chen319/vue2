@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>05单次插值</title>
+</head>
+<body>
+    <div id="app" v-once>{{msg}}</div>
+    <script src="vue.js"></script>
+    <script type="text/javascript">
+
+        var data = {
+            msg: '谢娜小s争综艺一姐暗斗不和',
+    }
+        var app = new Vue({
+        el: '#app',
+        data: data
+    })
+        //当再次改变数据的内容时候，不想改变视图的原内容，可以单次插值
+        data.msg = '海底大白鲨'
+        app.msg = '玩具总动员'
+    </script>
+</body>
+</html>

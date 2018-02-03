@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>01体验vue</title>
+</head>
+<body>
+    <div >{{msg}}</div>
+    <script src="jquery-3.3.1.js"></script>
+    <script src="vue.js"></script>
+    <script type="text/javascript">
+        // 向div中插入一条新闻
+        document.getElementsByTagName('div')[0].innerHTML = '国足2:3韩国';
+        document.getElementsByTagName('div')[0].innerHTML = '下周对阵伊朗';
+
+        // jquery实现
+        $('div').html('国足2:3韩国')
+        $('div').html('下周对阵伊朗')
+        // vue实现
+        var data = {
+            msg: '国足2:3韩国'
+        }
+        new Vue({
+            el: 'div',//元素名称选择器
+            data: data
+        })
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>08插值过滤器</title>
+    <style>
+        i{
+            color: red;
+        }
+    </style>
+</head>
+<body>
+<div id="app">
+    <span>面积</span><strong>{{num | currency}}</strong>
+    <p>{{a | currency}}</p>
+    <p>{{msg | uppercase}}</p>
+</div>
+<script src="vue.js"></script>
+<script type="text/javascript">
+
+    var data = {
+        num: 123.3333,
+        a: 768.557,
+        msg: 'what a day'
+    }
+    // 我们在页面中显示面积
+
+    var app = new Vue({
+        el: '#app',
+        data: data,
+        filters: {
+            currency: function (value) {
+                // if (!value) return ''
+                value = '$' + value.toFixed(2)
+                return value
+            },
+            uppercase: function(value){
+                return value || value === 0 ? value.toString().toUpperCase() : ''
+            }
+        }
+    })
+</script>
+</body>
+</html>

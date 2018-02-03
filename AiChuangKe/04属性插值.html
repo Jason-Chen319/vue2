@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>04属性插值</title>
+</head>
+<body>
+    <div class="app"
+         id="app"
+         :data-id="id"
+         :title="title"
+         :style="{color: obj.color}"
+    >{{msg}}</div>
+    <script src="vue.js"></script>
+    <script type="text/javascript">
+
+        var data = {
+            msg: '免费注册',
+            title: '点击请登录',
+            id: 20,
+            obj: {
+                color: 'red'
+            }
+    }
+        var app = new Vue({
+        el: '#app',
+        data: data
+    })
+
+    </script>
+</body>
+</html>

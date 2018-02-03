@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>06html过滤</title>
+    <style>
+        i{
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div id="app" v-html="msg" v-once></div>
+    <script src="vue.js"></script>
+    <script type="text/javascript">
+
+        var data = {
+            msg: 'lenovo/联想  P<i>1</i>C58乐檬<i>1</i>VIBE八核移动联通双4G指纹快充商务手机',
+    }
+        var app = new Vue({
+        el: '#app',
+        data: data
+    })
+    data.msg= '2只老虎跑得快，<i>1</i>只没有耳朵，<i>1</i>只没有眼睛'
+    </script>
+</body>
+</html>

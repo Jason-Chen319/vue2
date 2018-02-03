@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>07插值表达式</title>
+    <style>
+        i{
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+        <span>面积</span><strong>{{size.w * size.h}}</strong>
+        <p>{{msg.toUpperCase()}}</p>
+    </div>
+    <script src="vue.js"></script>
+    <script type="text/javascript">
+
+        var data = {
+            size: {
+                w: 100,
+                h: 200
+            },
+            msg: 'good day'
+        }
+        // 我们在页面中显示面积
+
+        var app = new Vue({
+            el: '#app',
+            data: data
+        })
+    </script>
+</body>
+</html>
